@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Hoje eu trabalho com cloud devops
-- 🌱 Estudando na facudade anhanguera redes de computadores
-- 👯 Estagiando em uma empresa de consultoria 
-- 🤔
+- 🔭 Hoje eu estou estagiando  com cloud devops...
+- 🌱 Estudando •DevOps Vagrant, Ansible, Git, Docker, Jenkins, Sonarqube, Prometheus, Grafana e Kubernetes,aws cloud..
+- 👯 Faço facudades na anhaguera redes de computadores....
+- 🤔 Tenho 33 anos..
 - 💬 
 - 📫
 - 😄 
