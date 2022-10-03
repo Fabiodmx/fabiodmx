@@ -1,7 +1,7 @@
 ### Olá eu sou o fabio sabino
 
 <!--
-**Fabiodmx/fabiodmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fabiodmx/fabiodmx**
 
 
 - 🔭 Hoje eu estou estagiando  com cloud devops...
